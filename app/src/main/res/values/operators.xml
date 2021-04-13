@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="operators">Operator</string>
+    <string-array name="operators_array">
+        <item>less than</item>
+        <item>less than equal to</item>
+        <item>greater than</item>
+        <item>greater than equal to</item>
+        <item>equals to</item>
+    </string-array>
+
+</resources>
